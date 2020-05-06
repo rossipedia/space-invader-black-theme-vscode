@@ -1,6 +1,8 @@
-# Space Invader Theme
+# 👾 Space Invader Theme
 
 A [Space Fleet](https://atom.io/themes/space-fleet-syntax) inspired theme for VSCode.
+
+Enjoy! 😊
 
 ## Screenshots
 
@@ -12,5 +14,3 @@ A [Space Fleet](https://atom.io/themes/space-fleet-syntax) inspired theme for VS
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
-
-**Enjoy!**
