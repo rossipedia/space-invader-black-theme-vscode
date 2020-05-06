@@ -5,10 +5,10 @@ A [Space Fleet](https://atom.io/themes/space-fleet-syntax) inspired theme for VS
 ## Screenshots
 
 **Normal**
-![Normal](https://github.com/samogorm/space-invader-theme-vscode/screenshots/normal.png)
+![Normal](https://github.com/samogorm/space-invader-theme-vscode/blob/master/screenshots/normal.png)
 
 **Darker**
-![Darker](https://github.com/samogorm/space-invader-theme-vscode/screenshots/darker.png)
+![Darker](https://github.com/samogorm/space-invader-theme-vscode/blob/master/screenshots/darker.png)
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
