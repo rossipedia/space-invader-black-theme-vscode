@@ -1,0 +1,28 @@
+{
+    "name": "space-invader",
+    "displayName": "Space Invader",
+    "description": "A beautiful, bright dark theme.",
+    "version": "1.1.0",
+    "publisher": "samogorman1993",
+    "repository": "https://github.com/samogorm/space-invader-theme-vscode",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Space Invader",
+                "uiTheme": "vs-dark",
+                "path": "./themes/space-invader-color-theme.json"
+            },
+            {
+                "label": "Space Invader - Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/space-invader-darker-color-theme.json"
+            }
+        ]
+    }
+}
