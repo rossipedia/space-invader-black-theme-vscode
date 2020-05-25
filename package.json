@@ -2,7 +2,7 @@
     "name": "space-invader",
     "displayName": "Space Invader",
     "description": "A beautiful, bright dark theme.",
-    "icon": "https://github.com/samogorm/space-invader-theme-vscode/blob/master/images/icon.png",
+    "icon": "images/icon.png",
     "version": "1.2.0",
     "publisher": "samogorman1993",
     "repository": "https://github.com/samogorm/space-invader-theme-vscode",
