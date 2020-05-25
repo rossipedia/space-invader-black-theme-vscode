@@ -14,16 +14,16 @@
     ],
     "contributes": {
         "themes": [
-            // {
-            //     "label": "Space Invader",
-            //     "uiTheme": "vs-dark",
-            //     "path": "./themes/space-invader-color-theme.json"
-            // },
-            // {
-            //     "label": "Space Invader - Darker",
-            //     "uiTheme": "vs-dark",
-            //     "path": "./themes/space-invader-darker-color-theme.json"
-            // },
+            {
+                "label": "Space Invader",
+                "uiTheme": "vs-dark",
+                "path": "./themes/space-invader-color-theme.json"
+            },
+            {
+                "label": "Space Invader - Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/space-invader-darker-color-theme.json"
+            },
             {
                 "label": "Space Invader - Light",
                 "uiTheme": "vs-dark",
