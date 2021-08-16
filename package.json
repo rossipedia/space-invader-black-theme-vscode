@@ -1,11 +1,11 @@
 {
     "name": "space-invader",
-    "displayName": "Space Invader",
-    "description": "A beautiful, bright dark theme.",
+    "displayName": "Space Invader - Black",
+    "description": "Space Invader with a black background.",
     "icon": "images/icon.png",
-    "version": "1.2.0",
-    "publisher": "samogorman1993",
-    "repository": "https://github.com/samogorm/space-invader-theme-vscode",
+    "version": "0.0.1",
+    "publisher": "rossipedia",
+    "repository": "https://github.com/rossipedia/space-invader-black-theme-vscode",
     "engines": {
         "vscode": "^1.42.0"
     },
@@ -15,19 +15,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Space Invader",
+                "label": "Space Invader - Black",
                 "uiTheme": "vs-dark",
-                "path": "./themes/space-invader-color-theme.json"
-            },
-            {
-                "label": "Space Invader - Darker",
-                "uiTheme": "vs-dark",
-                "path": "./themes/space-invader-darker-color-theme.json"
-            },
-            {
-                "label": "Space Invader - Light",
-                "uiTheme": "vs-dark",
-                "path": "./themes/space-invader-light-color-theme.json"
+                "path": "./themes/space-invader-black-color-theme.json"
             }
         ]
     }
