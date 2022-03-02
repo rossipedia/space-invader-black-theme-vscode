@@ -3,7 +3,7 @@
     "displayName": "Space Invader - Black",
     "description": "Space Invader with a black background.",
     "icon": "images/icon.png",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "rossipedia",
     "repository": "https://github.com/rossipedia/space-invader-black-theme-vscode",
     "engines": {
